@@ -10,7 +10,7 @@
 
     </title>
 
-  <link rel="stylesheet" href="{{'css/bootstrap.min.css'}}">
+  <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
 
 @yield('styles')
 
